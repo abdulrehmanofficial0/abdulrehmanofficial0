@@ -4,9 +4,9 @@
 <!--  before pushing (e.g. abdulrehman-dev)                 -->
 <!-- ===================================================== -->
 
-![Banner](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1400&auto=format&fit=crop)
+<img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1400&auto=format&fit=crop" alt="Banner" width="700" />
 
-# Hey 👋 I'm Abdul Rehman
+#                                       Hey 👋 I'm Abdul Rehman
 
 ### Building AI Powered Applications
 
@@ -28,17 +28,6 @@
   <img src="https://skillicons.dev/icons?i=pandas,sklearn,opencv,vscode,git,github,vercel,netlify" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulrehmanofficial0&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmanofficial0&layout=compact&theme=radical" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=abdulrehmanofficial0&theme=radical" />
-</p>
-
 ## 🚀 Featured Projects
 
 | Project Name | Description | Technologies | Link |
@@ -58,20 +47,3 @@
 </p>
 
 Thanks for visiting! 🚀 Happy Coding!
-
-<!--
-**abdulrehmanofficial0/abdulrehmanofficial0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am currently study at SUPERIOR UNIVERSITY GOLD CAMPUS , LAHORE.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
