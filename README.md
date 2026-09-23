@@ -16,7 +16,7 @@
 - 🤖 Currently working on **AI/ML development** and **web development** projects
 - 🚀 Passionate about building AI tools, computer vision systems, and predictive models
 - 💼 Available for freelance work
-- 📄 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📄 Portfolio: https://abdull-rehman-portfolio.vercel.app/
 - 📫 Reach me at: abdullrehmanansari176@gmail.com
 
 ## 🛠️ Tech Stack & Tools
